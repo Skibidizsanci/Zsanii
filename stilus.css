@@ -1,0 +1,9 @@
+body{
+    background-image: url("kép1.jpg") ;
+    font-family :'LimelightRegular';
+}
+
+.fh{
+    background-color: rgba(255, 255, 255, 70%);
+    
+}
