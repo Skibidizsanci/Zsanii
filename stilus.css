@@ -1,9 +1,20 @@
 body{
-    background-image: url("kép1.jpg") ;
-    font-family :'LimelightRegular';
+   background-image: url("Animal\ Pictures\ Worth\ More\ Than\ 1000\ Words\ \(20\ images\).jfif");
+      
 }
 
 .fh{
     background-color: rgba(255, 255, 255, 70%);
     
+}
+
+p{ 
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+
+}
+
+li{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
 }
